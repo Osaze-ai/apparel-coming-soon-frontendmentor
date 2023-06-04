@@ -2,9 +2,11 @@
 
 This is a solution to the [Base Apparel coming soon page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0). 
 
-[Desktop preview for the Base Apparel coming soon coding challenge]<img src="hero-desktop.jpg" alt="" title="">
+[Desktop preview for the Base Apparel coming soon coding challenge] 
+![hero-desktop](https://github.com/Osaze-ai/apparel-coming-soon-frontendmentor/assets/130580788/db4b4e01-03f6-4cef-8b4c-5f3a424731e3)
 
-[Mobile preview for the Base Apparel coming soon coding challenge](./design/mobile-design.jpg)
+[Mobile preview for the Base Apparel coming soon coding challenge]
+![hero-mobile](https://github.com/Osaze-ai/apparel-coming-soon-frontendmentor/assets/130580788/5e60ed84-3473-4e3d-b83f-34a8f52753ec)
 
 ## Welcome! 👋
 
