@@ -2,7 +2,7 @@
 
 This is a solution to the [Base Apparel coming soon page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0). 
 
-[Desktop preview for the Base Apparel coming soon coding challenge](https://osaze-ai.github.io/apparel-coming-soon-frontendmentor/)
+[Desktop preview for the Base Apparel coming soon coding challenge]<img src="hero-desktop.jpg" alt="desktop" title="">
 
 [Mobile preview for the Base Apparel coming soon coding challenge](./design/mobile-design.jpg)
 
