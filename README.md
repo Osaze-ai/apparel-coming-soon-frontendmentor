@@ -1,12 +1,16 @@
 # Fashion - Base Apparel coming soon page
 
-This is a solution to the [Base Apparel coming soon page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0). 
+This is a solution to the [Base Apparel coming soon page challenge on Frontend Mentor]
+
+![desktop-preview](https://github.com/Osaze-ai/apparel-coming-soon-frontendmentor/assets/130580788/5e4e0e5b-fdf2-451f-8e11-1f7032ee4f0f)
 
 [Desktop preview for the Base Apparel coming soon coding challenge] 
-![hero-desktop](https://github.com/Osaze-ai/apparel-coming-soon-frontendmentor/assets/130580788/db4b4e01-03f6-4cef-8b4c-5f3a424731e3)
+
+![desktop-design](https://github.com/Osaze-ai/apparel-coming-soon-frontendmentor/assets/130580788/a17ade18-0cfb-44bf-ad66-9765a9c0989d)
 
 [Mobile preview for the Base Apparel coming soon coding challenge]
-![hero-mobile](https://github.com/Osaze-ai/apparel-coming-soon-frontendmentor/assets/130580788/5e60ed84-3473-4e3d-b83f-34a8f52753ec)
+
+![mobile-design](https://github.com/Osaze-ai/apparel-coming-soon-frontendmentor/assets/130580788/0754a3d6-7cdb-43b4-a7b8-688b084c44c7)
 
 ## Welcome! 👋
 
@@ -31,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Osaze-ai/fashion-apparal-pg)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:(https://osaze-ai.github.io/apparel-coming-soon-frontendmentor/)
 
 ## Built with 
 
