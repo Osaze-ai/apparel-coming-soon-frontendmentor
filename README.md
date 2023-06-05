@@ -1,14 +1,14 @@
 # Fashion - Base Apparel coming soon page
 
-This is a solution to the [Base Apparel coming soon page challenge on Frontend Mentor]
+## This is a solution to the [./https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0]
 
-![desktop-preview](https://github.com/Osaze-ai/apparel-coming-soon-frontendmentor/assets/130580788/5e4e0e5b-fdf2-451f-8e11-1f7032ee4f0f)
+[desktop-preview](https://github.com/Osaze-ai/apparel-coming-soon-frontendmentor/assets/130580788/5e4e0e5b-fdf2-451f-8e11-1f7032ee4f0f)
 
-[Desktop preview for the Base Apparel coming soon coding challenge] 
+## Desktop preview for the Base Apparel coming soon coding challenge
 
 ![desktop-design](https://github.com/Osaze-ai/apparel-coming-soon-frontendmentor/assets/130580788/a17ade18-0cfb-44bf-ad66-9765a9c0989d)
 
-[Mobile preview for the Base Apparel coming soon coding challenge]
+## Mobile preview for the Base Apparel coming soon coding challenge
 
 ![mobile-design](https://github.com/Osaze-ai/apparel-coming-soon-frontendmentor/assets/130580788/0754a3d6-7cdb-43b4-a7b8-688b084c44c7)
 
