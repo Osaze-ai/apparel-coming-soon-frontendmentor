@@ -1,4 +1,4 @@
-<img src="https://osaze-ai.github.io/apparel-coming-soon-frontendmentor/"></img>
+<img src="design/desktop-design.jpg"></img>
 
 <h1 align ="center">Fashion - Base Apparel coming soon coding challenge
 </h1>
