@@ -1,8 +1,29 @@
-![desktop-design](https://github.com/Osaze-ai/apparel-coming-soon-frontendmentor/assets/130580788/a17ade18-0cfb-44bf-ad66-9765a9c0989d)
-## Fashion - Base Apparel coming soon coding challenge
-                                          
-![mobile-design](https://github.com/Osaze-ai/apparel-coming-soon-frontendmentor/assets/130580788/0754a3d6-7cdb-43b4-a7b8-688b084c44c7)
-## Mobile preview for the Base Apparel coming soon coding challenge
+<img src="https://osaze-ai.github.io/apparel-coming-soon-frontendmentor/"></img>
+
+<h1 align ="center">Fashion - Base Apparel coming soon coding challenge
+</h1>
+
+<div align="center">
+  <h3>
+    <a href="https://osaze-ai.github.io/apparel-coming-soon-frontendmentor/" color="white">
+      Live
+    </a>
+    <span> | </span>
+    <a href="https://www.frontendmentor.io/solutions/form-validation-page-using-css-and-javascript-FeY-U_Fwnn">
+      Solution
+    </a>
+   <span> | </span>
+    <a href="https://www.frontendmentor.io/solutions/form-validation-page-using-css-and-javascript-FeY-U_Fwnn">
+      Challenge
+    </a>
+  </h3>
+</div>
+<div align="center">
+   Solution for a challenge from  <a href="https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0" target="_blank">frontendmentor.io</a>.
+</div>
+<br>
+<br>
+<br>                                
 
 ## Welcome! 👋
 
