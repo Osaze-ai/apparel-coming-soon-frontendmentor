@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Osaze-ai/fashion-apparal-pg)
+- Solution URL: (https://github.com/Osaze-ai/apparel-coming-soon-frontendmentor)
 - Live Site URL:(https://osaze-ai.github.io/apparel-coming-soon-frontendmentor/)
 
 ## Built with 
